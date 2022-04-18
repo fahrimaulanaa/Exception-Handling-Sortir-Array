@@ -1,3 +1,3 @@
 # Exception-Handling-Sortir-Array
 
-Menggunakan codingan dari Tefa😴
+Exception handling untuk menyortir Array yang berantakan menjadi Array yang urut. Menggunakan ArrayList untuk mempermudah operasi sortir Array
